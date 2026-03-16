@@ -1,4 +1,4 @@
-🔗 [Посмотреть портфолио]( https://evik34.github.io/evelinakoneva.github.io/)
+[![Посмотреть портфолио](https://img.shields.io/badge/-Посмотреть%20портфолио-blue?style=for-the-badge)]( https://evik34.github.io/evelinakoneva.github.io/)
 
 # React + Vite
 
