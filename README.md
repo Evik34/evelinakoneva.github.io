@@ -1,3 +1,5 @@
+[![Посмотреть портфолио](https://img.shields.io/badge/-Посмотреть%20портфолио-blue?style=for-the-badge)]( https://evik34.github.io/evelinakoneva.github.io/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
