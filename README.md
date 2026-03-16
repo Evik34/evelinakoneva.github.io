@@ -1,4 +1,4 @@
-🔗 [Посмотреть портфолио](https://<username>.github.io/<repository>/)
+🔗 [Посмотреть портфолио]( https://evik34.github.io/evelinakoneva.github.io/)
 
 # React + Vite
 
